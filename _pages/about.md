@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: ?
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+sjkwer
 
 ### Features
 

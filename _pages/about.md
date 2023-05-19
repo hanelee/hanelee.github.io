@@ -3,26 +3,15 @@ layout: page
 title: Hane Lee (they/them)
 ---
 
-elwkejrlwkej
+I am a PhD student in Statistics at Columbia University. You can reach me at hane.lee@columbia.edu.
 
-### Features
+My current research interests are in political methodology and causal inference. Here are some projects I am working on, with updates soon to come:
+- Measuring ideological polarization (with my advisor Michael Sobel)
+- Hybrid Item Response Theory-Graphical model analysis of senate roll-call votes
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Before coming to Columbia, I was at MIT. I studied Electrical Engineering and Music for my undergrad. For my master's, I was at MIT Media Lab's Opera of the Future group where I experimented with interactive sonic experiences and helped produce acoustic+digital hybrid musical performances. My master's thesis was an interactive AR experience titled "Freedom Simulator".
 
-### Screenshot
+At lost hours, you will find me, with high probability, playing piano or reading. Some of my favorite musical eras are minimalism (Cage, Glass, Ziporyn, Eastman, Satie), impressionism (Ravel), and spectralism (Stockhausen, Crumb).
 
-![Screenshot](screenshot.png)
+![Headshot](pdowns.jpg)
+

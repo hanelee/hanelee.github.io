@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hane Lee (they/them)
 ---
 
 elwkejrlwkej

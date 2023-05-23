@@ -3,7 +3,9 @@ layout: page
 title: Hane Lee (they/them)
 ---
 <br/>
+
 ![Headshot](pdowns.jpg)
+
 <br/>
 
 I am a PhD student in Statistics at Columbia University. You can reach me at hane.lee@columbia.edu.
@@ -11,8 +13,8 @@ I am a PhD student in Statistics at Columbia University. You can reach me at han
 <br/>
 
 My current research interests are in political methodology and causal inference. Some projects I am working on, with updates soon to come:
-- Measuring ideological polarization with optimal transport (with my advisor Michael Sobel)
-- Hybrid Item Response Theory-Graphical model analysis of senate roll-call votes
+* Measuring ideological polarization with optimal transport (with my advisor Michael Sobel)
+* Hybrid Item Response Theory-Graphical model analysis of senate roll-call votes
 
 <br/>
 

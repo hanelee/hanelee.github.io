@@ -1,26 +1,24 @@
 ---
 layout: about
-title: hello
+title: about
 permalink: /
-#subtitle: PhD candidate at Columbia Statistics<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: hane.lee@columbia.edu
+#  <l>Pronouns: they/them</l>
+#  <l>hane.lee@columbia.edu</l>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in statistics at Columbia University. My research interests lie in the union of statistics and political science. I am broadly interested in political methodology; substantively, I like studying American politics and public opinion.
+Hi! I am a PhD Candidate in the Statistics Department at Columbia University, advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
+My statistical research interests are broadly in political methodology, such as developing an index of political bipolarization using the Wasserstein distance and an application of a fused latent factor-social graph model to roll-call votes. Substantively, I focus on polarization in American politics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS, where I designed interactive musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering and Music.

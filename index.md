@@ -1,23 +1,22 @@
 ---
 layout: homepage
 ---
+ <br> <br> <br>  <br>  <br>
+![prof_pic](prof_pic.jpg)  
+<br><br> <br> 
 
-## About Me
+Hi! I am a PhD Candidate in the Statistics Department at Columbia University, advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
-I am a Ph.D. student at ...
+My statistical research interests are broadly in political methodology, such as developing an index of political bipolarization using the Wasserstein distance and an application of a fused latent factor-social graph model to roll-call votes. Substantively, I focus on polarization in American politics.
 
-## Research Interests
+Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS, where I designed interactive musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering and Music.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+ <br>  <br>  <br>
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[May 2024]** I will be presenting my paper with Michael Sobel about the Wasserstein Bipolarization Index at PolMeth 2024.
+ <br> <br> <br>
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

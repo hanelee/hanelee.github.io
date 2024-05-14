@@ -34,7 +34,7 @@
      */
 
 .icon-button{
-  background-color:white;
+  background-color:#00FFFFFF;
   border-radius:3.6rem;
   cursor:pointer;
   display:inline-block;
@@ -88,7 +88,7 @@ email {
 
 .icon-button i{
   background:none;
-  color:white;
+  color:#00FFFFFF;
   height:3.6rem;
   left:0;
   line-height:3.6rem;
@@ -183,7 +183,7 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#003540;
   margin:0 0 20px;
 }
 
@@ -213,12 +213,14 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#5a5af5;
+  //color:#7474fd;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  //color:#5151b1;
+  color:#4848c4;
 }
 
 a small {
@@ -522,7 +524,7 @@ footer {
 
 // My additions
 body {
-  background-color: #c8d8db;
+  background-color: #c1d2db;
 }
 
 h1 {

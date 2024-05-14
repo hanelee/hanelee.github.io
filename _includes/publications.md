@@ -17,10 +17,19 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">{{ link.authors }} ({{link.year}}).</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% if link.abstract%}
+      <button class="btn btn-sm z-depth-0" type="button" data-toggle="collapse" data-target="#linkabs" aria-expanded="false" aria-controls="linkabs" style="font-size:12px;">Abs</button>
+      <div class="collapse show" id="linkabs" style>
+      <div class="card card-body">
+        <p></p>
+        {{link.abstract}}
+      </div>
+      </div>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}

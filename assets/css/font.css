@@ -3,17 +3,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Rufina:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Glegoo:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
-
-
+@import url("https://db.onlinewebfonts.com/c/4228d70cffaafbde5ac677b4a23c14b9?family=DecimaProALight");
+@import url("https://db.onlinewebfonts.com/c/17a06985019c833bb4b294b5b8e2b943?family=Native-Light");
+@import url("https://db.onlinewebfonts.com/c/0b6a07e4109372441b21de68b9397b0c?family=Toma+Slab");
+@import url("https://db.onlinewebfonts.com/c/19f02cb0633201c896fbe4a1900afc43?family=Aleo+Light");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+@import url("https://db.onlinewebfonts.com/c/0fb11be8781037453723dda767b71596?family=Geogrotesque+Regular");
+@import url("https://db.onlinewebfonts.com/c/335787aa6f57d71cabe8eb5dc89c6d6b?family=Blender+Pro+Book");
 body {
   background-color: #fff;
   padding:0px;
-  font: 17.0px/1.5 Zilla Slab, Serif; 
+  font-family: "Blender Pro Book";
+  font-size: 19.0px;
+  /* font: 17.0px/1.5 Zilla Slab, Serif; */
   color:#253f4e;
   font-weight:300;
   margin:0

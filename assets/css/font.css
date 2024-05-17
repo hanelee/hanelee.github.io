@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 400;
   src: 
-    url(assets/fonts/BlenderPro/BlenderPro-Book.woff) format("woff2"),
-    url(assets/onts/BlenderPro/BlenderPro-Book.ttf) format("truetype");
+    url(../assets/fonts/BlenderPro/BlenderPro-Book.woff) format("woff2"),
+    url(../assets/onts/BlenderPro/BlenderPro-Book.ttf) format("truetype");
 }
 
 @font-face { 
@@ -16,8 +16,8 @@
   font-style: normal;
   font-weight: 400;
   src: 
-    url(assets/fonts/BlenderPro/BlenderPro-Medium.woff2) format("woff2"),
-    url(assets/fonts/BlenderPro/BlenderPro-Medium.ttf) format("truetype");
+    url(../assets/fonts/BlenderPro/BlenderPro-Medium.woff2) format("woff2"),
+    url(../assets/fonts/BlenderPro/BlenderPro-Medium.ttf) format("truetype");
 }
 
 body {

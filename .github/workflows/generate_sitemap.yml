@@ -9,6 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate a sitemap
 
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    
     steps:
     - name: Checkout the repo
       uses: actions/checkout@v4
@@ -28,14 +33,5 @@ jobs:
         echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
         echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
     
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v6.0.5
-      with:
-        title: "Automated sitemap update"
-        body: > 
-          Automated changes. Sitemap updated by 
-          the [generate-sitemap](https://github.com/cicirello/generate-sitemap) 
-          GitHub action.  
-        commit-message: "Automated sitemap update."
-        branch: create-pull-request/sitemap
-        delete-branch: true
+    - uses: stefanzweifel/git-auto-commit-action@v5
+

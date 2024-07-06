@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.hanelee.com/</loc>
-  <lastmod>2024-07-06T04:21:37+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>hanelee.com/_layouts/homepage.html</loc>
+<lastmod>2024-05-17T10:59:35-04:00</lastmod>
 </url>
 <url>
-  <loc>https://www.hanelee.com/assets/files/curriculum_vitae.pdf</loc>
-  <lastmod>2024-07-06T04:21:37+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>hanelee.com/html_source_file/</loc>
+<lastmod>2024-05-11T11:50:23-04:00</lastmod>
 </url>
 <url>
-  <loc>https://www.hanelee.com/assets/files/S1201_syllabus.pdf</loc>
-  <lastmod>2024-07-06T04:21:37+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>hanelee.com/assets/files/S1201_syllabus.pdf</loc>
+<lastmod>2024-05-31T01:46:20-04:00</lastmod>
 </url>
-
-
+<url>
+<loc>hanelee.com/assets/files/curriculum_vitae.pdf</loc>
+<lastmod>2024-07-06T02:59:27-04:00</lastmod>
+</url>
+<url>
+<loc>hanelee.com/html_source_file/assets/files/curriculum_vitae.pdf</loc>
+<lastmod>2024-05-11T11:50:23-04:00</lastmod>
+</url>
 </urlset>

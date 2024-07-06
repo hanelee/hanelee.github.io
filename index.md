@@ -48,17 +48,17 @@ Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana V
 
 Graduate
 
-- Probability Theory (Fall 2021, Spring 2021, Fall 2020) GU4203/GR5203
-- Statistical Inference (Fall 2023) GU4204/GR5204
-- Accelerated Probability Theory/Statistical Inference (Fall 2023, Fall 2022)
-- Statistical Machine Learning (Spring 2022) GR5241
+- Probability Theory (Fall 2021, Spring 2021, Fall 2020)
+- Statistical Inference (Fall 2023)
+- Accelerated Probability Theory/Statistical Inference (Fall 2022)
+- Statistical Machine Learning (Spring 2022)
 - Linear Regression Models (Spring 2023)
-- Bayesian Statistics (Summer 2022) S4224
+- Bayesian Statistics (Summer 2022)
 
 Undergraduate
 
-- Introduction to Statistics (Spring 2020) UN1101
-- Introduction to Statistical Reasoning (Fall 2019) UN1001
+- Introduction to Statistics (Spring 2020)
+- Introduction to Statistical Reasoning (Fall 2019)
 
 <!-- {% include_relative _includes/publications.md %} -->
 

@@ -31,7 +31,7 @@ Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https:
  *Working paper*. Hane Lee, Andrew Davison, Zhiliang Ying. "A Fused Ideological and Social Model of Roll-Call Votes".
  <details>
   <summary>Abstract</summary>
-  Coming soon!
+  Political scientists have prioritized ideology as the main driving force of roll-call votes, both theoretically and methodologically. However, legislators have complex motivations, and ideological models do not entirely explain all variation in votes. Many studies have attempted to study the social motivations behind roll call votes using networks, but these social networks disregard ideology and attribute all variation votes to a single source of social ties, such as cosponsorship or shared committee membership. We propose to empirically integrate the two approaches through a fused latent factor and social network model that primarily attributes the variation among votes to latent factors and the remaining variation not explained by the latent factors to a social network. We apply our model to the 101st Senate and find that the model successfully decomposes ideology and social ties. We also show that the social network captures a complex combination of social ties, integrating multiple social networks that were traditionally studied.
 </details>
 
 

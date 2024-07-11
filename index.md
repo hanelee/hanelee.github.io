@@ -9,7 +9,7 @@ Hi! I am a PhD candidate in the [Statistics Department at Columbia University](h
 
 My research focuses on the intersection of statistics and American politics. For methods, I have been working on developing new measures of ideological and affective polarization using the Wasserstein distance and combining the ideological and social interpretations of roll-call votes using a fused latent factor and network model. Substantively, I am interested in public opinion, polarization, and race, ethnicity, and politics.
 
-Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS, where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
+Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
 
  <br>  <br>
 

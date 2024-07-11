@@ -7,7 +7,7 @@ layout: homepage
 
 Hi! I am a PhD candidate in the [Statistics Department at Columbia University](https://stat.columbia.edu/), advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
-My research focuses on the intersection of statistics and American politics. Methodologically, I have been working on developing new measures of ideological and affective polarization using the Wasserstein distance and combining the ideological and social interpretations of roll-call votes using a fused latent factor and network model. Substantively, I am interested public opinion, political behavior, and race, ethnicity, and politics.
+My research focuses on the intersection of statistics and American politics. Methodologically, I have been working on developing new measures of ideological and affective polarization using the Wasserstein distance and combining the ideological and social interpretations of roll-call votes using a fused latent factor and network model. Substantively, I am interested public opinion, polarization, and race, ethnicity, and politics.
 
 Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS, where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
 

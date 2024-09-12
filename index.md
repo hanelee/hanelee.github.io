@@ -22,8 +22,7 @@ Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https:
 
 
 ## Research
- *Preprint*. Hane Lee, Michael Sobel (2024). "The Wasserstein Bipolarization Index: A New Measure of Public Opinion Polarization, with an Application to Cross-Country Attitudes toward COVID-19 Vaccination Mandates". [https://doi.org/10.48550/arXiv.2408.03331](
- https://doi.org/10.48550/arXiv.2408.03331)
+ *Preprint*. Hane Lee, Michael Sobel (2024). "[The Wasserstein Bipolarization Index: A New Measure of Public Opinion Polarization, with an Application to Cross-Country Attitudes toward COVID-19 Vaccination Mandates.](https://doi.org/10.48550/arXiv.2408.03331)"
 <details>
   <summary>Abstract</summary>
   Although the topic of opinion polarization receives much attention from the media, public opinion researchers and political scientists, the phenomenon itself has not been adequately characterized in either the lay or academic literature.  To study opinion polarization among the public, researchers compare the distributions of respondents to survey questions or track the distribution of responses to a question over time using ad-hoc methods and measures such as visual comparisons, variances, and bimodality coefficients. To remedy this situation, we build on the axiomatic approach in the economics literature on income bipolarization, specifying key properties a measure of bipolarization should satisfy: in particular, it should increase as the distribution spreads away from a center toward the poles and/or as clustering below or above this center increases.  We then show that measures of bipolarization used in public opinion research fail to satisfy one or more of these axioms. Next, we propose a p-Wasserstein polarization index that satisfies the axioms we set forth. Our index measures the dissimilarity between an observed distribution and a distribution with all the mass clustered on the lower and upper endpoints of the scale. We use our index to examine bipolarization in attitudes toward governmental COVID-19 vaccine mandates across 11 countries, finding the U.S and U.K are most polarized, China, France and India the least polarized, while the others (Brazil, Australia, Columbia, Canada, Italy, Spain) occupy an intermediate position.
@@ -37,7 +36,7 @@ Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https:
 
 
 <br>
-Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana Vazquez, and Owen Ward (2023). "Does it pay to park in front of a fire hydrant?". *Significance* 20(1), pp. 28–30. [https://doi.org/10.1093/jrssig/qmad007](https://doi.org/10.1093/jrssig/qmad007).
+Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana Vazquez, and Owen Ward (2023). "[Does it pay to park in front of a fire hydrant?](https://academic.oup.com/jrssig/article/20/1/28/7034189?login=true)". *Significance* 20(1), pp. 28–30.
 
 <br> <br>
 

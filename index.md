@@ -8,7 +8,7 @@ layout: homepage
 
 Hi! I am a final year PhD candidate in the [Statistics Department at Columbia University](https://stat.columbia.edu/), advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
-My research focuses on the intersection of statistics and political science. My research is motivated by substantive questions from American politics, especially in public opinion, political polarization, and race, ethnicity, and politics. To operationalize and measure political phenomena, I use diverse statistical methods: optimal transport, latent factor models, network theory, optimization, causal inference, and more. Some things I have been working on include developing new measures of ideological and affective polarization using the Wasserstein distance and measuring congressional social ties from roll call votes.
+My research focuses on the intersection of statistics and political science, motivated by substantive questions from American politics--especially in public opinion, political polarization, and race, ethnicity, and politics. To operationalize and measure political phenomena, I apply diverse statistical methods: optimal transport, latent factor models, network theory, optimization, causal inference, and more. The topics I have been working on include developing new measures of ideological and affective polarization using the Wasserstein distance and measuring congressional social ties from roll call votes.
 
 Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
 
@@ -55,15 +55,24 @@ Graduate
 
 - Probability Theory (Fall 2021, Spring 2021, Fall 2020)
 - Statistical Inference (Fall 2023)
-- Accelerated Probability Theory/Statistical Inference (Fall 2022)
+- Accelerated Probability Theory/Statistical Inference (Fall 2022, Spring 2023, Fall 2024)
 - Statistical Machine Learning (Spring 2022)
-- Linear Regression Models (Spring 2023)
+- Linear Regression Models (Spring 2024)
 - Bayesian Statistics (Summer 2022)
 
 Undergraduate
 
 - Introduction to Statistics (Spring 2020)
 - Introduction to Statistical Reasoning (Fall 2019)
+
+### Tutor (at MIT HKN and Math Learning Center)
+
+Undergraduate
+
+- Signals and Systems (6.003)
+- Probability and Random Variables (18.600)
+- Linear Algebra (18.06)
+- Differential Equations (18.03)
 
 <!-- {% include_relative _includes/publications.md %} -->
 

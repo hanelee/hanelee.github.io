@@ -16,6 +16,8 @@ Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https:
 
 ## News
 
+[Dec 2024] I am applying for postdoctoral fellowships in data science and political science.
+
 [May 2024] I will be presenting my paper on the Wasserstein Bipolarization Index at PolMeth 2024.
 
 [May 2023] I will be presenting a poster on the fused latent factor and graphical modeling of roll-call votes at PolMeth 2023.

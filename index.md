@@ -20,7 +20,7 @@ Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https:
 
 [Aug 2025] I will be presenting a poster on measuring social ties at PolMeth 2025.
 
-[Summer 2025] I will be starting my postdoc with Prof. Moon Duchin at the Data and Democracy Lab at University of Chicago. 
+[Summer 2025] I will be starting my postdoc with [Prof. Moon Duchin at the Data and Democracy Lab](https://mggg.org/team) at University of Chicago. 
 
 [May 2024] I will be presenting my paper on the Wasserstein Bipolarization Index at PolMeth 2024.
 

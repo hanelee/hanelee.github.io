@@ -42,7 +42,6 @@ Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.medi
   Research on minority representation has long focused on the presence of minority winners as the key outcome or independent variable. Despite its usefulness, we show that it marginalizes the information about how closely minority candidates get elected relative to their majority counterparts, preventing more nuanced understandings of race and representation. We discuss an alternative quantity of interest called the racial electoral margin (REM), which measures not only the presence of racial minority winners but also the electoral competitiveness in multiracial elections on a continuous scale. After formalizing the concept in first-past-the-post, we provide empirical analyses of REM in American politics. Our work implies that examining electoral competitiveness, rather than the simple presence of minority candidates, captures the dynamic nature of racial politics and minority descriptive representation.
 </details>
 <br>
-
 Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana Vazquez, and Owen Ward (2023). "[Does it pay to park in front of a fire hydrant?](https://academic.oup.com/jrssig/article/20/1/28/7034189?login=true)". *Significance* 20(1), pp. 28–30.
 
 <br> <br>

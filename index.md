@@ -10,18 +10,17 @@ Hi! I am a postdoc at the [Data Science Institute at the University of Chicago](
 
 My research focuses on the intersection of statistics and political science, motivated by substantive questions from American politics--especially in public opinion, political polarization, and race, ethnicity, and politics. To operationalize and measure political phenomena, I apply diverse statistical methods: optimal transport, latent factor models, network theory, optimization, causal inference, and more. The topics I have been working on include developing new measures of ideological and affective polarization using the Wasserstein distance and measuring congressional social ties from roll call votes. I am also interested in studying statistical methods related to race from a critical theory perspective.
 
-Before coming to Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
+Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
 
  <br>  <br>
 
-## News
+[//]: # (## News)
 
-[Jul 2025] I will be presenting a poster on measuring congressional social ties at PolMeth 2025.
+[//]: # ([Jul 2025] I will be presenting a poster on measuring congressional social ties at PolMeth 2025.)
 
-[Jul 2024] I will be presenting my paper on the Wasserstein Bipolarization Index at PolMeth 2024.
+[//]: # ([Jul 2024] I will be presenting my paper on the Wasserstein Bipolarization Index at PolMeth 2024.)
 
-[Jul 2023] I will be presenting a poster on the fused latent factor and graphical modeling of roll-call votes at PolMeth 2023.
- <br> <br> <br>
+[//]: # ([Jul 2023] I will be presenting a poster on the fused latent factor and graphical modeling of roll-call votes at PolMeth 2023.)
 
 
 ## Research

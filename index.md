@@ -43,6 +43,10 @@ Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.medi
 </details>
 <br>
  *Working paper*. Hane Lee. "The Polarizing Middle Ground: Independents in Public Opinion Polarization".
+ <details>
+  <summary>Abstract</summary>
+  Coming soon!
+</details>
 <br>
 Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana Vazquez, and Owen Ward (2023). "[Does it pay to park in front of a fire hydrant?](https://academic.oup.com/jrssig/article/20/1/28/7034189?login=true)". *Significance* 20(1), pp. 28–30.
 

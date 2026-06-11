@@ -42,7 +42,7 @@ Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.medi
   How can we measure electoral competitiveness among multiple candidates with varying group affiliations? We propose the concept of group-level electoral competitiveness, which generalizes the conventional margin of victory to any number of candidates and group affiliations while avoiding strong assumptions about perfect coordination among in-group candidates. We demonstrate its applicability in three domains of American politics: racial competitiveness in congressional elections, partisan competitiveness in local elections, and competitiveness across candidates' occupational backgrounds. Our findings reveal patterns of group advantage and disadvantage that are obscured by traditional measures. By extending electoral margins to group-based competition, this paper provides a unified and flexible methodological framework for evaluating long-standing questions in the study of electoral democracy. The proposed measure is implemented via an open-source software R package gmv.
 </details>
 <br>
- *Working paper*. Hane Lee. "The Polarizing Middle Ground: Independents in Public Opinion Polarization".
+ *Working paper*. Hane Lee. "Beyond Partisan Sorting: Opinion Divergence and the "Missing" Independents".
  <details>
   <summary>Abstract</summary>
   Coming soon!
@@ -53,8 +53,10 @@ Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana V
 <br> <br>
 
 ## Teaching
+
 ### Instructor (at Columbia University)
 - Calculus-based Introduction to Statistics (Summer 2024) [[Syllabus]](assets/files/S1201_syllabus.pdf)
+- Howard Levine Outstanding Teaching Award (2024)
 
 ### Teaching Assistant (at Columbia University)
 

@@ -8,19 +8,21 @@ layout: homepage
 
 Hi! I am a postdoc at the [Data Science Institute at the University of Chicago](https://datascience.uchicago.edu/), working with [Moon Duchin](https://computerscience.uchicago.edu/people/moon-duchin/) at the [Data and Democracy Lab](https://data-democracy.org/). I recently received my PhD from the [Statistics Department at Columbia University](https://stat.columbia.edu/), where I was advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
-My research focuses on the intersection of statistics and political science, motivated by substantive questions from American politics--especially in public opinion polarization and redistricting. To operationalize and measure political phenomena, I apply diverse statistical methods: optimal transport, latent factor models, network theory, optimization, causal inference, and more. The topics I have been working on include developing new measures of ideological and affective polarization using the Wasserstein distance and measuring congressional social ties from roll call votes. I am also interested in studying race, ethnicity, and politics and statistical methods related to race from a critical theory perspective.
+My research focuses on the intersection of political methodology and American politics, and I am especially motivated by substantive questions in public opinion polarization and racial electoral politics. My research on public opinion develops new measures of opinion divergence using optimal transport and examines how policy disagreement contributes to mass polarization. My work on racial electoral politics studies how electoral systems shape opportunities for representation, including measuring group electoral competitiveness and using simulation methods to study racial representation.
 
 Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.media.mit.edu/groups/opera-of-the-future/overview/) group for an MS where I designed interactive AR musical experiences and helped produce hybrid acoustic+digital musical performances. I also received a BS from MIT in Electrical Engineering with a minor in Music.
 
  <br>  <br>
 
-[//]: # (## News)
+## News
 
-[//]: # ([Jul 2025] I will be presenting a poster on measuring congressional social ties at PolMeth 2025.)
+[Sep 2026] I will be presenting my paper on measuring congressional social ties at APSA 2026.
 
-[//]: # ([Jul 2024] I will be presenting my paper on the Wasserstein Bipolarization Index at PolMeth 2024.)
+[Aug 2026] I will be presenting my paper on the Wasserstein Bipolarization Index at JSM 2026.
 
-[//]: # ([Jul 2023] I will be presenting a poster on the fused latent factor and graphical modeling of roll-call votes at PolMeth 2023.)
+[Jul 2026] I will be presenting my poster on opinion disagreement and polarization at PolMeth 2026.
+
+[Jun 2026] I will be presenting my paper on the Wasserstein Bipolarization Index at University of Rochester's Summer Conference in Applied Methods for Political Science.
 
 
 ## Research
@@ -55,36 +57,6 @@ Chris Andrade, Jonathan Auerbach, Icaro Bacelar, Hane Lee, Angela Tan, Mariana V
 
 <br> <br>
 
-## Teaching
-
-### Instructor (at Columbia University)
-- Calculus-based Introduction to Statistics (Summer 2024) [[Syllabus]](assets/files/S1201_syllabus.pdf)
-- Howard Levine Outstanding Teaching Award (2024)
-
-### Teaching Assistant (at Columbia University)
-
-Graduate
-
-- Probability Theory (Fall 2021, Spring 2021, Fall 2020)
-- Statistical Inference (Fall 2023)
-- Accelerated Probability Theory/Statistical Inference (Fall 2022, Spring 2023, Fall 2024)
-- Statistical Machine Learning (Spring 2022)
-- Linear Regression Models (Spring 2024)
-- Bayesian Statistics (Summer 2022)
-
-Undergraduate
-
-- Introduction to Statistics (Spring 2020)
-- Introduction to Statistical Reasoning (Fall 2019)
-
-### Tutor (at MIT HKN and Math Learning Center)
-
-Undergraduate
-
-- Signals and Systems (6.003)
-- Probability and Random Variables (18.600)
-- Linear Algebra (18.06)
-- Differential Equations (18.03)
 
 <!-- {% include_relative _includes/publications.md %} -->
 

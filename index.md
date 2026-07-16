@@ -24,7 +24,8 @@ Before Columbia, I was at MIT Media Lab's [Opera of the Future](https://www.medi
 
 [Jun 2026] I will be presenting my paper on the Wasserstein Bipolarization Index at University of Rochester's Summer Conference in Applied Methods for Political Science.
 
-
+ <br> 
+ 
 ## Research
 
 

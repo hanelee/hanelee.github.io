@@ -6,7 +6,7 @@ layout: homepage
 <br><br> <br> 
 
 
-Hi! I am a postdoc at the [Data Science Institute at the University of Chicago](https://datascience.uchicago.edu/), working with [Moon Duchin](https://computerscience.uchicago.edu/people/moon-duchin/) at the [Data and Democracy Lab](https://data-democracy.org/). I recently received my PhD from the [Statistics Department at Columbia University](https://stat.columbia.edu/), where I was advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
+Hi! I am a postdoc at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/), working with [Moon Duchin](https://computerscience.uchicago.edu/people/moon-duchin/) at the [Data and Democracy Lab](https://data-democracy.org/). I recently received my PhD from the [Statistics Department at Columbia University](https://stat.columbia.edu/), where I was advised by [Michael Sobel](https://scholar.google.com/citations?user=cuKCFmcAAAAJ&hl=en). My first name is pronounced [Hayn], and my pronouns are they/them.
 
 My research focuses on the intersection of political methodology and American politics, and I am especially motivated by substantive questions in public opinion polarization and racial electoral politics. My research on public opinion develops new measures of opinion divergence using optimal transport and examines how policy disagreement contributes to mass polarization. My work on racial electoral politics studies how electoral systems shape opportunities for representation, including measuring group electoral competitiveness and using simulation methods to study racial representation.
 
